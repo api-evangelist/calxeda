@@ -50,7 +50,7 @@ tags:
 - Hardware
 - Servers
 - ARM
-- Data-Center
+- Data Center
 - Defunct
 - System on a Chip
 - Infrastructure
@@ -64,6 +64,7 @@ tags_raw:
 - Defunct
 - System on a Chip
 - Infrastructure
+- Data-Center
 apis: []
 common:
 - name: Wikipedia
